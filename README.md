@@ -13,7 +13,7 @@ Origine : [Encryptor 2000](https://hackropole.fr/fr/challenges/crypto/fcsc2020-c
 > http://localhost
 
 #### tentez 
-> nc deterministic_ecdsa.cyrhades.com:4000
+> nc deterministic_ecdsa.cyrhades.fr:4000
 
 
 -----------

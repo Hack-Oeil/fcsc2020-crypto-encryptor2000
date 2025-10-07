@@ -9,8 +9,8 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur encryptor2000.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur encryptor2000.cyrhades.fr!
 
-*****:~$ nc encryptor2000.cyrhades.com
+*****:~$ nc encryptor2000.cyrhades.fr
 
 Bonne chance !
