@@ -3,7 +3,7 @@
 Vous avez accès à un service permettant de chiffrer un secret. Pouvez-vous retrouver ce secret ?
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Encryptor 2000](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-encryptor2000/)
